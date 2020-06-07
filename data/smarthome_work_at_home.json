@@ -1,0 +1,542 @@
+[
+  {
+    "type": "PersonMove",
+    "timestamp": 3000,
+    "location": "guest bath",
+    "tag": "kid_2",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 3050,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "on",
+    "priority": 2,
+    "note": "Burner 1 set to high"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 3100,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "on",
+    "priority": 2,
+    "note": "Burner 2 set to medium"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 3200,
+    "location": "guest bath",
+    "tag": "lights",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 3500,
+    "location": "guest bath",
+    "tag": "sink",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 5500,
+    "location": "garage",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 5525,
+    "location": "kitchen",
+    "tag": "housekeeper",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 5525,
+    "location": "garage",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 5550,
+    "location": "garage",
+    "tag": "housekeeper",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 5700,
+    "location": "utility room",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 5750,
+    "location": "utility room",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 5800,
+    "location": "utility room",
+    "tag": "lights",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 6000,
+    "location": "family room",
+    "tag": "kid_1",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 6000,
+    "location": "family room",
+    "tag": "tv_remote",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 6000,
+    "location": "guest bath",
+    "tag": "kid_2",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 6500,
+    "location": "kids bedroom",
+    "tag": "kid_2",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 6550,
+    "location": "kids bedroom",
+    "tag": "lights",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 7000,
+    "location": "utility room",
+    "tag": "washing machine",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 7200,
+    "location": "guest bath",
+    "tag": "toilet",
+    "flag": "error",
+    "priority": 1,
+    "note": "Water running too long"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 8400,
+    "location": "utility room",
+    "tag": "lights",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 8500,
+    "location": "utility room",
+    "tag": "housekeeper",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 8600,
+    "location": "garage",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 8900,
+    "location": "garage",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 9000,
+    "location": "garage",
+    "tag": "housekeeper",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 9000,
+    "location": "kids bedroom",
+    "tag": "tv_remote",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 9000,
+    "location": "kids bedroom",
+    "tag": "kid_1",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 9100,
+    "location": "kitchen",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 9400,
+    "location": "kitchen",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 9500,
+    "location": "garage",
+    "tag": "housekeeper",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 10000,
+    "location": "master bedroom",
+    "tag": "wifi",
+    "flag": "error",
+    "priority": 1,
+    "note": "ERROR CODE 43: DNS UNREACHABLE"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 11000,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "on",
+    "priority": 2,
+    "note": "Burner 1 set to medium"
+  },
+  {
+    "type": "PackageDelivery",
+    "timestamp": 25000,
+    "location": "front porch",
+    "tag": "spouse_1",
+    "flag": "",
+    "priority": 1,
+    "note": "Prescriptiondirect.com: 30 count Blood Pressure Medication"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 25000,
+    "location": "kids bedroom",
+    "tag": "television",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 32000,
+    "location": "kids bedroom",
+    "tag": "kid_1",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 33000,
+    "location": "kitchen",
+    "tag": "kid_1",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Message",
+    "timestamp": 33000,
+    "location": "",
+    "tag": "kid_1",
+    "flag": "",
+    "priority": 2,
+    "note": "From Mom: Hey sweetie, don’t forget to work on that homework this afternoon. It’s due on friday"
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 36000,
+    "location": "kitchen",
+    "tag": "kid_1",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 37000,
+    "location": "front porch",
+    "tag": "kid_1",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 37500,
+    "location": "front porch",
+    "tag": "kid_1",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 37500,
+    "location": "front porch",
+    "tag": "kid_1",
+    "flag": "off",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 40000,
+    "location": "back porch",
+    "tag": "kid_2",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 40100,
+    "location": "back porch",
+    "tag": "kid_2",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 40200,
+    "location": "back porch",
+    "tag": "kid_2",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 45000,
+    "location": "kitchen",
+    "tag": "spouse_1",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Message",
+    "timestamp": 45000,
+    "location": "",
+    "tag": "spouse_1",
+    "flag": "",
+    "priority": 1,
+    "note": "From Spouse 2: I'll pick up the kids from school today."
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 49000,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "error",
+    "priority": 1,
+    "note": "Warning: Stove on and unattended for too long"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 50000,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "off",
+    "priority": 2,
+    "note": "Burner 1"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 50100,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "off",
+    "priority": 2,
+    "note": "Burner 2"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 60000,
+    "location": "utility room",
+    "tag": "washing machine",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "PackageDelivery",
+    "timestamp": 62000,
+    "location": "front porch",
+    "tag": "spouse_2",
+    "flag": "",
+    "priority": 1,
+    "note": "amazon.com: Lego Mindstorms birthday gift"
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 62000,
+    "location": "utility room",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 62050,
+    "location": "utility room",
+    "tag": "lights",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 64000,
+    "location": "utility room",
+    "tag": "lights",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 64000,
+    "location": "kitchen",
+    "tag": "dishwasher",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 65000,
+    "location": "master bedroom",
+    "tag": "wifi",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 65000,
+    "location": "kitchen",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 69500,
+    "location": "front porch",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 70000,
+    "location": "front porch",
+    "tag": "housekeeper",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 70100,
+    "location": "front porch",
+    "tag": "housekeeper",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 80000,
+    "location": "kitchen",
+    "tag": "dishwasher",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  }
+]

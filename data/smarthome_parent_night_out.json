@@ -1,0 +1,434 @@
+[
+  {
+    "type": "PersonMove",
+    "timestamp": 100,
+    "location": "family room",
+    "tag": "kid_2",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 1000,
+    "location": "garage",
+    "tag": "babysitter",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 1100,
+    "location": "kitchen",
+    "tag": "babysitter",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 1200,
+    "location": "garage",
+    "tag": "babysitter",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 1900,
+    "location": "kitchen",
+    "tag": "babysitter",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Message",
+    "timestamp": 1900,
+    "location": "kitchen",
+    "tag": "babysitter",
+    "flag": "on",
+    "priority": 1,
+    "note": "From Spouse 2: Please remind kid_1 to do her homework."
+  },
+  {
+    "type": "Door",
+    "timestamp": 2000,
+    "location": "garage",
+    "tag": "babysitter",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 2300,
+    "location": "family room",
+    "tag": "television",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 3000,
+    "location": "kids bedroom",
+    "tag": "kid_1",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 3100,
+    "location": "guest bath",
+    "tag": "lights",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 3900,
+    "location": "guest bath",
+    "tag": "toilet",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 4260,
+    "location": "guest bath",
+    "tag": "sink",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 4300,
+    "location": "guest bath",
+    "tag": "toilet",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 4400,
+    "location": "guest bath",
+    "tag": "sink",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 4450,
+    "location": "guest bath",
+    "tag": "lights",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 6000,
+    "location": "guest bath",
+    "tag": "lights",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 6020,
+    "location": "guest bath",
+    "tag": "toilet",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 6200,
+    "location": "guest bath",
+    "tag": "sink",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 6300,
+    "location": "guest bath",
+    "tag": "toilet",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 6340,
+    "location": "guest bath",
+    "tag": "lights",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 7500,
+    "location": "guest bath",
+    "tag": "sink",
+    "flag": "error",
+    "priority": 1,
+    "note": "Water running too long"
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 9000,
+    "location": "family room",
+    "tag": "kid_2",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 9000,
+    "location": "family room",
+    "tag": "tv_remote",
+    "flag": "off",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 9950,
+    "location": "kids bedroom",
+    "tag": "kid_2",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 10000,
+    "location": "kids bedroom",
+    "tag": "tv_remote",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 10200,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "on",
+    "priority": 2,
+    "note": "Burner 2 set to medium"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 10250,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "on",
+    "priority": 2,
+    "note": "Burner 1 set to high"
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 12000,
+    "location": "family room",
+    "tag": "tv_remote",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 12000,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "on",
+    "priority": 2,
+    "note": "Burner 1 set to medium"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 15000,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "off",
+    "priority": 2,
+    "note": "Burner 2"
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 22000,
+    "location": "kitchen",
+    "tag": "mobile phone",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 23800,
+    "location": "back porch",
+    "tag": "kid_1",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 23800,
+    "location": "back yard",
+    "tag": "cat",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 24000,
+    "location": "back porch",
+    "tag": "mobile phone",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "PackageDelivery",
+    "timestamp": 25000,
+    "location": "front porch",
+    "tag": "spouse_1",
+    "flag": "",
+    "priority": 1,
+    "note": "Prescriptiondirect.com: 90 count Atorvastatin"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 28000,
+    "location": "",
+    "tag": "wifi",
+    "flag": "error",
+    "priority": 1,
+    "note": "ERROR CODE 43: DNS UNREACHABLE"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 30000,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "error",
+    "priority": 1,
+    "note": "Warning: Stove on and unattended for too long"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 32000,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "off",
+    "priority": 2,
+    "note": "Burner 1"
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 32200,
+    "location": "kitchen",
+    "tag": "stove",
+    "flag": "off",
+    "priority": 2,
+    "note": "Burner 2"
+  },
+  {
+    "type": "Door",
+    "timestamp": 33000,
+    "location": "back porch",
+    "tag": "babysitter",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Door",
+    "timestamp": 34000,
+    "location": "back porch",
+    "tag": "babysitter",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 34600,
+    "location": "kitchen",
+    "tag": "dog",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "PersonMove",
+    "timestamp": 34700,
+    "location": "kitchen",
+    "tag": "kid_1",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ObjectMove",
+    "timestamp": 34700,
+    "location": "kitchen",
+    "tag": "mobile phone",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 35000,
+    "location": "",
+    "tag": "wifi",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 40000,
+    "location": "kitchen",
+    "tag": "dishwasher",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 42000,
+    "location": "family room",
+    "tag": "television",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "ApplianceStateChange",
+    "timestamp": 60000,
+    "location": "kitchen",
+    "tag": "dishwasher",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  }
+]
